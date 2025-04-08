@@ -1,4 +1,4 @@
-# GAID-PAM
+# SSS-PAM
 
 Generative Artificial Intelligence-Driven extremely Sparsely Sampled Photoacoustic Microscopy
 
