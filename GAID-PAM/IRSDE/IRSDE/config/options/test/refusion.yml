@@ -1,0 +1,43 @@
+name: refusion
+suffix: ~  # add suffix to saved images
+model: denoising
+distortion: AR2OR
+gpu_ids: [0]
+
+sde:
+  max_sigma: 50
+  T: 100 # 100
+  schedule: cosine # linear, cosine
+  eps: 0.005
+  
+degradation:
+  # for denoising
+  sigma: 25
+  noise_type: G # Gaussian noise: G
+
+  # for super-resolution
+  scale: 4
+
+datasets:
+  test1:
+    name: test_dataset
+    mode: LQGT
+    dataroot_GT: /home/y/桌面/IR-SDE-data/5_15_test/GT
+    dataroot_LQ: /home/y/桌面/IR-SDE-data/5_15_test/55um_35db
+
+
+
+
+#### network structures
+network_G:
+  which_model_G: ConditionalNAFNet
+  setting:
+    width: 64
+    enc_blk_nums: [1, 1, 1, 28]
+    middle_blk_num: 1
+    dec_blk_nums: [1, 1, 1, 1]
+
+#### path
+path:
+  pretrain_model_G: /home/y/桌面/image-restoration-sde/codes/config/AR2OR/AAA_ckpt/5_15/55um_35db/models/360000_G.pth
+  results_root: /home/y/桌面/image-restoration-sde/codes/config/AR2OR/AAA_result/5_15/55um_35db

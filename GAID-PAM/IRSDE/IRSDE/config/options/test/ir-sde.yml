@@ -1,0 +1,40 @@
+name: ir-sde
+suffix: ~  # add suffix to saved images
+model: denoising
+distortion: AR2OR
+gpu_ids: [0]
+
+sde:
+  max_sigma: 30 # 30
+  T: 100
+  schedule: cosine # linear, cosine
+  eps: 0.005
+  
+degradation:
+  # for denoising
+  sigma: 25
+  noise_type: G # Gaussian noise: G
+
+  # for super-resolution
+  scale: 4
+
+datasets:
+  test1:
+    name: Val_Dataset
+    mode: LQGT
+    dataroot_GT: /home/y/桌面/IR-SDE-data/test_data/bicubic/6k/blur_HQ
+    dataroot_LQ: /home/y/桌面/IR-SDE-data/test_data/bicubic/6k/blur_LQ_x10
+
+#### network structures
+network_G:
+  which_model_G: ConditionalUNet
+  setting:
+    in_nc: 1
+    out_nc: 1
+    nf: 64
+    depth: 4
+
+#### path
+path:
+  pretrain_model_G: /home/y/桌面/image-restoration-sde/codes/config/AR2OR/AAA_ckpt/bicubic_x10/models/150000_G.pth
+  results_root: /home/y/桌面/image-restoration-sde/codes/config/AR2OR/AAA_result/bicubic_x10_150000

@@ -1,0 +1,1509 @@
+[
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "einsum",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn.functional",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn.functional",
+        "description": "torch.nn.functional",
+        "detail": "torch.nn.functional",
+        "documentation": {}
+    },
+    {
+        "label": "einops",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "einops",
+        "description": "einops",
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "rearrange",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "reduce",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "rearrange",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "reduce",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "functools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "functools",
+        "description": "functools",
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn.init",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn.init",
+        "description": "torch.nn.init",
+        "detail": "torch.nn.init",
+        "documentation": {}
+    },
+    {
+        "label": "Rearrange",
+        "importPath": "einops.layers.torch",
+        "description": "einops.layers.torch",
+        "isExtraImport": true,
+        "detail": "einops.layers.torch",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedDict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedDict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedDict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedDict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "DistributedDataParallel",
+        "importPath": "torch.nn.parallel",
+        "description": "torch.nn.parallel",
+        "isExtraImport": true,
+        "detail": "torch.nn.parallel",
+        "documentation": {}
+    },
+    {
+        "label": "DataParallel",
+        "importPath": "torch.nn.parallel",
+        "description": "torch.nn.parallel",
+        "isExtraImport": true,
+        "detail": "torch.nn.parallel",
+        "documentation": {}
+    },
+    {
+        "label": "DistributedDataParallel",
+        "importPath": "torch.nn.parallel",
+        "description": "torch.nn.parallel",
+        "isExtraImport": true,
+        "detail": "torch.nn.parallel",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "torchvision.utils",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torchvision.utils",
+        "description": "torchvision.utils",
+        "detail": "torchvision.utils",
+        "documentation": {}
+    },
+    {
+        "label": "make_grid",
+        "importPath": "torchvision.utils",
+        "description": "torchvision.utils",
+        "isExtraImport": true,
+        "detail": "torchvision.utils",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "EMA",
+        "importPath": "ema_pytorch",
+        "description": "ema_pytorch",
+        "isExtraImport": true,
+        "detail": "ema_pytorch",
+        "documentation": {}
+    },
+    {
+        "label": "models.lr_scheduler",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "models.lr_scheduler",
+        "description": "models.lr_scheduler",
+        "detail": "models.lr_scheduler",
+        "documentation": {}
+    },
+    {
+        "label": "models.networks",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "models.networks",
+        "description": "models.networks",
+        "detail": "models.networks",
+        "documentation": {}
+    },
+    {
+        "label": "Lion",
+        "importPath": "models.optimizer",
+        "description": "models.optimizer",
+        "isExtraImport": true,
+        "detail": "models.optimizer",
+        "documentation": {}
+    },
+    {
+        "label": "MatchingLoss",
+        "importPath": "models.modules.loss",
+        "description": "models.modules.loss",
+        "isExtraImport": true,
+        "detail": "models.modules.loss",
+        "documentation": {}
+    },
+    {
+        "label": "_LRScheduler",
+        "importPath": "torch.optim.lr_scheduler",
+        "description": "torch.optim.lr_scheduler",
+        "isExtraImport": true,
+        "detail": "torch.optim.lr_scheduler",
+        "documentation": {}
+    },
+    {
+        "label": "modules",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "create_model",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "create_model",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Optimizer",
+        "importPath": "torch.optim.optimizer",
+        "description": "torch.optim.optimizer",
+        "isExtraImport": true,
+        "detail": "torch.optim.optimizer",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "peak_signal_noise_ratio",
+        "importPath": "skimage.metrics",
+        "description": "skimage.metrics",
+        "isExtraImport": true,
+        "detail": "skimage.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "structural_similarity",
+        "importPath": "skimage.metrics",
+        "description": "skimage.metrics",
+        "isExtraImport": true,
+        "detail": "skimage.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "os.path",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.path",
+        "description": "os.path",
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "yaml",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yaml",
+        "description": "yaml",
+        "detail": "yaml",
+        "documentation": {}
+    },
+    {
+        "label": "bgr2ycbcr",
+        "importPath": "data.util",
+        "description": "data.util",
+        "isExtraImport": true,
+        "detail": "data.util",
+        "documentation": {}
+    },
+    {
+        "label": "bgr2ycbcr",
+        "importPath": "data.util",
+        "description": "data.util",
+        "isExtraImport": true,
+        "detail": "data.util",
+        "documentation": {}
+    },
+    {
+        "label": "create_dataloader",
+        "importPath": "data",
+        "description": "data",
+        "isExtraImport": true,
+        "detail": "data",
+        "documentation": {}
+    },
+    {
+        "label": "create_dataset",
+        "importPath": "data",
+        "description": "data",
+        "isExtraImport": true,
+        "detail": "data",
+        "documentation": {}
+    },
+    {
+        "label": "create_dataloader",
+        "importPath": "data",
+        "description": "data",
+        "isExtraImport": true,
+        "detail": "data",
+        "documentation": {}
+    },
+    {
+        "label": "create_dataset",
+        "importPath": "data",
+        "description": "data",
+        "isExtraImport": true,
+        "detail": "data",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "utils",
+        "description": "utils",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "embed",
+        "importPath": "IPython",
+        "description": "IPython",
+        "isExtraImport": true,
+        "detail": "IPython",
+        "documentation": {}
+    },
+    {
+        "label": "lpips",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "lpips",
+        "description": "lpips",
+        "detail": "lpips",
+        "documentation": {}
+    },
+    {
+        "label": "options",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "options",
+        "description": "options",
+        "detail": "options",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "copy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "copy",
+        "description": "copy",
+        "detail": "copy",
+        "documentation": {}
+    },
+    {
+        "label": "torch.distributed",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.distributed",
+        "description": "torch.distributed",
+        "detail": "torch.distributed",
+        "documentation": {}
+    },
+    {
+        "label": "torch.multiprocessing",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.multiprocessing",
+        "description": "torch.multiprocessing",
+        "detail": "torch.multiprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "DistIterSampler",
+        "importPath": "data.data_sampler",
+        "description": "data.data_sampler",
+        "isExtraImport": true,
+        "detail": "data.data_sampler",
+        "documentation": {}
+    },
+    {
+        "label": "lmdb",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "lmdb",
+        "description": "lmdb",
+        "detail": "lmdb",
+        "documentation": {}
+    },
+    {
+        "label": "torch.utils.data",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Sampler",
+        "importPath": "torch.utils.data.sampler",
+        "description": "torch.utils.data.sampler",
+        "isExtraImport": true,
+        "detail": "torch.utils.data.sampler",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "abc",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "abc",
+        "description": "abc",
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "get_terminal_size",
+        "importPath": "shutil",
+        "description": "shutil",
+        "isExtraImport": true,
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "integrate",
+        "importPath": "scipy",
+        "description": "scipy",
+        "isExtraImport": true,
+        "detail": "scipy",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleGate",
+        "kind": 6,
+        "importPath": "config.models.modules.DenoisingNAFNet_arch",
+        "description": "config.models.modules.DenoisingNAFNet_arch",
+        "peekOfCode": "class SimpleGate(nn.Module):\n    def forward(self, x):\n        x1, x2 = x.chunk(2, dim=1)\n        return x1 * x2\nclass NAFBlock(nn.Module):\n    def __init__(self, c, time_emb_dim=None, DW_Expand=2, FFN_Expand=2, drop_out_rate=0.):\n        super().__init__()\n        self.mlp = nn.Sequential(\n            SimpleGate(), nn.Linear(time_emb_dim // 2, c * 4)\n        ) if time_emb_dim else None",
+        "detail": "config.models.modules.DenoisingNAFNet_arch",
+        "documentation": {}
+    },
+    {
+        "label": "NAFBlock",
+        "kind": 6,
+        "importPath": "config.models.modules.DenoisingNAFNet_arch",
+        "description": "config.models.modules.DenoisingNAFNet_arch",
+        "peekOfCode": "class NAFBlock(nn.Module):\n    def __init__(self, c, time_emb_dim=None, DW_Expand=2, FFN_Expand=2, drop_out_rate=0.):\n        super().__init__()\n        self.mlp = nn.Sequential(\n            SimpleGate(), nn.Linear(time_emb_dim // 2, c * 4)\n        ) if time_emb_dim else None\n        dw_channel = c * DW_Expand\n        self.conv1 = nn.Conv2d(in_channels=c, out_channels=dw_channel, kernel_size=1, padding=0, stride=1, groups=1, bias=True)\n        self.conv2 = nn.Conv2d(in_channels=dw_channel, out_channels=dw_channel, kernel_size=3, padding=1, stride=1, groups=dw_channel,\n                               bias=True)",
+        "detail": "config.models.modules.DenoisingNAFNet_arch",
+        "documentation": {}
+    },
+    {
+        "label": "ConditionalNAFNet",
+        "kind": 6,
+        "importPath": "config.models.modules.DenoisingNAFNet_arch",
+        "description": "config.models.modules.DenoisingNAFNet_arch",
+        "peekOfCode": "class ConditionalNAFNet(nn.Module):\n    def __init__(self, img_channel=1, width=16, middle_blk_num=1, enc_blk_nums=[], dec_blk_nums=[], upscale=1):\n        super().__init__()\n        self.upscale = upscale  # not used\n        fourier_dim = width\n        sinu_pos_emb = SinusoidalPosEmb(fourier_dim)\n        time_dim = width * 4\n        self.time_mlp = nn.Sequential(\n            sinu_pos_emb,\n            nn.Linear(fourier_dim, time_dim*2),",
+        "detail": "config.models.modules.DenoisingNAFNet_arch",
+        "documentation": {}
+    },
+    {
+        "label": "ConditionalUNet",
+        "kind": 6,
+        "importPath": "config.models.modules.DenoisingUNet_arch",
+        "description": "config.models.modules.DenoisingUNet_arch",
+        "peekOfCode": "class ConditionalUNet(nn.Module):\n    def __init__(self, in_nc, out_nc, nf, depth=4, upscale=1):\n        super().__init__()\n        self.depth = depth\n        self.upscale = upscale # not used\n        block_class = functools.partial(ResBlock, conv=default_conv, act=NonLinearity())\n        self.init_conv = default_conv(in_nc*2, nf, 7)\n        # time embeddings\n        time_dim = nf * 4\n        self.random_or_learned_sinusoidal_cond = False",
+        "detail": "config.models.modules.DenoisingUNet_arch",
+        "documentation": {}
+    },
+    {
+        "label": "MatchingLoss",
+        "kind": 6,
+        "importPath": "config.models.modules.loss",
+        "description": "config.models.modules.loss",
+        "peekOfCode": "class MatchingLoss(nn.Module):\n    def __init__(self, loss_type='l1', is_weighted=False):\n        super().__init__()\n        self.is_weighted = is_weighted\n        if loss_type == 'l1':\n            self.loss_fn = F.l1_loss\n        elif loss_type == 'l2':\n            self.loss_fn = F.mse_loss\n        else:\n            raise ValueError(f'invalid loss type {loss_type}')",
+        "detail": "config.models.modules.loss",
+        "documentation": {}
+    },
+    {
+        "label": "Residual",
+        "kind": 6,
+        "importPath": "config.models.modules.module_util",
+        "description": "config.models.modules.module_util",
+        "peekOfCode": "class Residual(nn.Module):\n    def __init__(self, fn):\n        super().__init__()\n        self.fn = fn\n    def forward(self, x, *args, **kwargs):\n        return self.fn(x, *args, **kwargs) + x\n# sinusoidal positional embeds\nclass SinusoidalPosEmb(nn.Module):\n    def __init__(self, dim):\n        super().__init__()",
+        "detail": "config.models.modules.module_util",
+        "documentation": {}
+    },
+    {
+        "label": "SinusoidalPosEmb",
+        "kind": 6,
+        "importPath": "config.models.modules.module_util",
+        "description": "config.models.modules.module_util",
+        "peekOfCode": "class SinusoidalPosEmb(nn.Module):\n    def __init__(self, dim):\n        super().__init__()\n        self.dim = dim\n    def forward(self, x):\n        device = x.device\n        half_dim = self.dim // 2\n        emb = math.log(10000) / (half_dim - 1)\n        emb = torch.exp(torch.arange(half_dim, device=device) * -emb)\n        emb = x[:, None] * emb[None, :]",
+        "detail": "config.models.modules.module_util",
+        "documentation": {}
+    },
+    {
+        "label": "RandomOrLearnedSinusoidalPosEmb",
+        "kind": 6,
+        "importPath": "config.models.modules.module_util",
+        "description": "config.models.modules.module_util",
+        "peekOfCode": "class RandomOrLearnedSinusoidalPosEmb(nn.Module):\n    \"\"\" following @crowsonkb 's lead with random (learned optional) sinusoidal pos emb \"\"\"\n    \"\"\" https://github.com/crowsonkb/v-diffusion-jax/blob/master/diffusion/models/danbooru_128.py#L8 \"\"\"\n    def __init__(self, dim, is_random = False):\n        super().__init__()\n        assert (dim % 2) == 0\n        half_dim = dim // 2\n        self.weights = nn.Parameter(torch.randn(half_dim), requires_grad = not is_random)\n    def forward(self, x):\n        x = rearrange(x, 'b -> b 1')",
+        "detail": "config.models.modules.module_util",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNorm",
+        "kind": 6,
+        "importPath": "config.models.modules.module_util",
+        "description": "config.models.modules.module_util",
+        "peekOfCode": "class LayerNorm(nn.Module):\n    def __init__(self, dim):\n        super().__init__()\n        self.g = nn.Parameter(torch.ones(1, dim, 1, 1))\n    def forward(self, x):\n        eps = 1e-5 if x.dtype == torch.float32 else 1e-3\n        var = torch.var(x, dim = 1, unbiased = False, keepdim = True)\n        mean = torch.mean(x, dim = 1, keepdim = True)\n        return (x - mean) * (var + eps).rsqrt() * self.g\nclass PreNorm(nn.Module):",
+        "detail": "config.models.modules.module_util",
+        "documentation": {}
+    },
+    {
+        "label": "PreNorm",
+        "kind": 6,
+        "importPath": "config.models.modules.module_util",
+        "description": "config.models.modules.module_util",
+        "peekOfCode": "class PreNorm(nn.Module):\n    def __init__(self, dim, fn):\n        super().__init__()\n        self.fn = fn\n        self.norm = LayerNorm(dim)\n    def forward(self, x):\n        x = self.norm(x)\n        return self.fn(x)\ndef Upsample(dim, dim_out=None):\n    return nn.Sequential(",
+        "detail": "config.models.modules.module_util",
+        "documentation": {}
+    },
+    {
+        "label": "Block",
+        "kind": 6,
+        "importPath": "config.models.modules.module_util",
+        "description": "config.models.modules.module_util",
+        "peekOfCode": "class Block(nn.Module):\n    def __init__(self, conv, dim_in, dim_out, act=NonLinearity()):\n        super().__init__()\n        self.proj = conv(dim_in, dim_out)\n        self.act = act\n    def forward(self, x, scale_shift=None):\n        x = self.proj(x)\n        if exists(scale_shift):\n            scale, shift = scale_shift\n            x = x * (scale + 1) + shift",
+        "detail": "config.models.modules.module_util",
+        "documentation": {}
+    },
+    {
+        "label": "ResBlock",
+        "kind": 6,
+        "importPath": "config.models.modules.module_util",
+        "description": "config.models.modules.module_util",
+        "peekOfCode": "class ResBlock(nn.Module):\n    def __init__(self, conv, dim_in, dim_out, time_emb_dim=None, act=NonLinearity()):\n        super(ResBlock, self).__init__()\n        self.mlp = nn.Sequential(\n            act, nn.Linear(time_emb_dim, dim_out * 2)\n        ) if time_emb_dim else None\n        self.block1 = Block(conv, dim_in, dim_out, act)\n        self.block2 = Block(conv, dim_out, dim_out, act)\n        self.res_conv = conv(dim_in, dim_out, 1) if dim_in != dim_out else nn.Identity()\n    def forward(self, x, time_emb=None):",
+        "detail": "config.models.modules.module_util",
+        "documentation": {}
+    },
+    {
+        "label": "LinearAttention",
+        "kind": 6,
+        "importPath": "config.models.modules.module_util",
+        "description": "config.models.modules.module_util",
+        "peekOfCode": "class LinearAttention(nn.Module):\n    def __init__(self, dim, heads=4, dim_head=32):\n        super().__init__()\n        self.scale = dim_head ** -0.5\n        self.heads = heads\n        hidden_dim = dim_head * heads\n        self.to_qkv = nn.Conv2d(dim, hidden_dim * 3, 1, bias=False)\n        self.to_out = nn.Sequential(\n            nn.Conv2d(hidden_dim, dim, 1),\n            LayerNorm(dim)",
+        "detail": "config.models.modules.module_util",
+        "documentation": {}
+    },
+    {
+        "label": "Attention",
+        "kind": 6,
+        "importPath": "config.models.modules.module_util",
+        "description": "config.models.modules.module_util",
+        "peekOfCode": "class Attention(nn.Module):\n    def __init__(self, dim, heads=4, dim_head=32):\n        super().__init__()\n        self.scale = dim_head ** -0.5\n        self.heads = heads\n        hidden_dim = dim_head * heads\n        self.to_qkv = nn.Conv2d(dim, hidden_dim * 3, 1, bias=False)\n        self.to_out = nn.Conv2d(hidden_dim, dim, 1)\n    def forward(self, x):\n        b, c, h, w = x.shape",
+        "detail": "config.models.modules.module_util",
+        "documentation": {}
+    },
+    {
+        "label": "Upsampler",
+        "kind": 6,
+        "importPath": "config.models.modules.module_util",
+        "description": "config.models.modules.module_util",
+        "peekOfCode": "class Upsampler(nn.Sequential):\n    def __init__(self, conv, scale, n_feats, bn=False, act=False, bias=True):\n        m = []\n        if (scale & (scale - 1)) == 0:    # Is scale = 2^n?\n            for _ in range(int(math.log(scale, 2))):\n                m.append(conv(n_feats, 4 * n_feats, 3, bias))\n                m.append(nn.PixelShuffle(2))\n                if bn:\n                    m.append(nn.BatchNorm2d(n_feats))\n                if act == 'relu':",
+        "detail": "config.models.modules.module_util",
+        "documentation": {}
+    },
+    {
+        "label": "exists",
+        "kind": 2,
+        "importPath": "config.models.modules.module_util",
+        "description": "config.models.modules.module_util",
+        "peekOfCode": "def exists(x):\n    return x is not None\ndef default(val, d):\n    if exists(val):\n        return val\n    return d() if callable(d) else d\nclass Residual(nn.Module):\n    def __init__(self, fn):\n        super().__init__()\n        self.fn = fn",
+        "detail": "config.models.modules.module_util",
+        "documentation": {}
+    },
+    {
+        "label": "default",
+        "kind": 2,
+        "importPath": "config.models.modules.module_util",
+        "description": "config.models.modules.module_util",
+        "peekOfCode": "def default(val, d):\n    if exists(val):\n        return val\n    return d() if callable(d) else d\nclass Residual(nn.Module):\n    def __init__(self, fn):\n        super().__init__()\n        self.fn = fn\n    def forward(self, x, *args, **kwargs):\n        return self.fn(x, *args, **kwargs) + x",
+        "detail": "config.models.modules.module_util",
+        "documentation": {}
+    },
+    {
+        "label": "NonLinearity",
+        "kind": 2,
+        "importPath": "config.models.modules.module_util",
+        "description": "config.models.modules.module_util",
+        "peekOfCode": "def NonLinearity(inplace=False):\n    return nn.SiLU(inplace)\ndef Normalize(in_channels):\n    return nn.GroupNorm(num_groups=32, num_channels=in_channels, eps=1e-6, affine=True)\nclass LayerNorm(nn.Module):\n    def __init__(self, dim):\n        super().__init__()\n        self.g = nn.Parameter(torch.ones(1, dim, 1, 1))\n    def forward(self, x):\n        eps = 1e-5 if x.dtype == torch.float32 else 1e-3",
+        "detail": "config.models.modules.module_util",
+        "documentation": {}
+    },
+    {
+        "label": "Normalize",
+        "kind": 2,
+        "importPath": "config.models.modules.module_util",
+        "description": "config.models.modules.module_util",
+        "peekOfCode": "def Normalize(in_channels):\n    return nn.GroupNorm(num_groups=32, num_channels=in_channels, eps=1e-6, affine=True)\nclass LayerNorm(nn.Module):\n    def __init__(self, dim):\n        super().__init__()\n        self.g = nn.Parameter(torch.ones(1, dim, 1, 1))\n    def forward(self, x):\n        eps = 1e-5 if x.dtype == torch.float32 else 1e-3\n        var = torch.var(x, dim = 1, unbiased = False, keepdim = True)\n        mean = torch.mean(x, dim = 1, keepdim = True)",
+        "detail": "config.models.modules.module_util",
+        "documentation": {}
+    },
+    {
+        "label": "Upsample",
+        "kind": 2,
+        "importPath": "config.models.modules.module_util",
+        "description": "config.models.modules.module_util",
+        "peekOfCode": "def Upsample(dim, dim_out=None):\n    return nn.Sequential(\n        nn.Upsample(scale_factor=2, mode='nearest'),\n        nn.Conv2d(dim, default(dim_out, dim), 3, 1, 1)\n    )\ndef Downsample(dim, dim_out=None):\n    return nn.Conv2d(dim, default(dim_out, dim), 4, 2, 1)\ndef default_conv(dim_in, dim_out, kernel_size=3, bias=False):\n    return nn.Conv2d(dim_in, dim_out, kernel_size, padding=(kernel_size//2), bias=bias)\nclass Block(nn.Module):",
+        "detail": "config.models.modules.module_util",
+        "documentation": {}
+    },
+    {
+        "label": "Downsample",
+        "kind": 2,
+        "importPath": "config.models.modules.module_util",
+        "description": "config.models.modules.module_util",
+        "peekOfCode": "def Downsample(dim, dim_out=None):\n    return nn.Conv2d(dim, default(dim_out, dim), 4, 2, 1)\ndef default_conv(dim_in, dim_out, kernel_size=3, bias=False):\n    return nn.Conv2d(dim_in, dim_out, kernel_size, padding=(kernel_size//2), bias=bias)\nclass Block(nn.Module):\n    def __init__(self, conv, dim_in, dim_out, act=NonLinearity()):\n        super().__init__()\n        self.proj = conv(dim_in, dim_out)\n        self.act = act\n    def forward(self, x, scale_shift=None):",
+        "detail": "config.models.modules.module_util",
+        "documentation": {}
+    },
+    {
+        "label": "default_conv",
+        "kind": 2,
+        "importPath": "config.models.modules.module_util",
+        "description": "config.models.modules.module_util",
+        "peekOfCode": "def default_conv(dim_in, dim_out, kernel_size=3, bias=False):\n    return nn.Conv2d(dim_in, dim_out, kernel_size, padding=(kernel_size//2), bias=bias)\nclass Block(nn.Module):\n    def __init__(self, conv, dim_in, dim_out, act=NonLinearity()):\n        super().__init__()\n        self.proj = conv(dim_in, dim_out)\n        self.act = act\n    def forward(self, x, scale_shift=None):\n        x = self.proj(x)\n        if exists(scale_shift):",
+        "detail": "config.models.modules.module_util",
+        "documentation": {}
+    },
+    {
+        "label": "initialize_weights",
+        "kind": 2,
+        "importPath": "config.models.modules.module_util",
+        "description": "config.models.modules.module_util",
+        "peekOfCode": "def initialize_weights(net_l, scale=1.):\n    if not isinstance(net_l, list):\n        net_l = [net_l]\n    for net in net_l:\n        for m in net.modules():\n            if isinstance(m, nn.Conv2d):\n                init.kaiming_normal_(m.weight, a=0, mode=\"fan_in\")\n                m.weight.data *= scale  # for residual block\n                if m.bias is not None:\n                    m.bias.data.zero_()",
+        "detail": "config.models.modules.module_util",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "kind": 6,
+        "importPath": "config.models.base_model",
+        "description": "config.models.base_model",
+        "peekOfCode": "class BaseModel:\n    def __init__(self, opt):\n        self.opt = opt\n        self.device = torch.device(\"cuda\" if opt[\"gpu_ids\"] is not None else \"cpu\")\n        self.is_train = opt[\"is_train\"]\n        self.schedulers = []\n        self.optimizers = []\n    def feed_data(self, data):\n        pass\n    def optimize_parameters(self):",
+        "detail": "config.models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "DenoisingModel",
+        "kind": 6,
+        "importPath": "config.models.denoising_model",
+        "description": "config.models.denoising_model",
+        "peekOfCode": "class DenoisingModel(BaseModel):\n    def __init__(self, opt):\n        super(DenoisingModel, self).__init__(opt)\n        if opt[\"dist\"]:\n            self.rank = torch.distributed.get_rank()\n        else:\n            self.rank = -1  # non dist training\n        train_opt = opt[\"train\"]\n        # define network and load pretrained models\n        self.model = networks.define_G(opt).to(self.device)",
+        "detail": "config.models.denoising_model",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "config.models.denoising_model",
+        "description": "config.models.denoising_model",
+        "peekOfCode": "logger = logging.getLogger(\"base\")\nclass DenoisingModel(BaseModel):\n    def __init__(self, opt):\n        super(DenoisingModel, self).__init__(opt)\n        if opt[\"dist\"]:\n            self.rank = torch.distributed.get_rank()\n        else:\n            self.rank = -1  # non dist training\n        train_opt = opt[\"train\"]\n        # define network and load pretrained models",
+        "detail": "config.models.denoising_model",
+        "documentation": {}
+    },
+    {
+        "label": "MultiStepLR_Restart",
+        "kind": 6,
+        "importPath": "config.models.lr_scheduler",
+        "description": "config.models.lr_scheduler",
+        "peekOfCode": "class MultiStepLR_Restart(_LRScheduler):\n    def __init__(\n        self,\n        optimizer,\n        milestones,\n        restarts=None,\n        weights=None,\n        gamma=0.1,\n        clear_state=False,\n        last_epoch=-1,",
+        "detail": "config.models.lr_scheduler",
+        "documentation": {}
+    },
+    {
+        "label": "CosineAnnealingLR_Restart",
+        "kind": 6,
+        "importPath": "config.models.lr_scheduler",
+        "description": "config.models.lr_scheduler",
+        "peekOfCode": "class CosineAnnealingLR_Restart(_LRScheduler):\n    def __init__(\n        self, optimizer, T_period, restarts=None, weights=None, eta_min=0, last_epoch=-1\n    ):\n        self.T_period = T_period\n        self.T_max = self.T_period[0]  # current T period\n        self.eta_min = eta_min\n        self.restarts = restarts if restarts else [0]\n        self.restart_weights = weights if weights else [1]\n        self.last_restart = 0",
+        "detail": "config.models.lr_scheduler",
+        "documentation": {}
+    },
+    {
+        "label": "define_G",
+        "kind": 2,
+        "importPath": "config.models.networks",
+        "description": "config.models.networks",
+        "peekOfCode": "def define_G(opt):\n    opt_net = opt[\"network_G\"]\n    which_model = opt_net[\"which_model_G\"]\n    setting = opt_net[\"setting\"]\n    netG = getattr(M, which_model)(**setting)\n    return netG\n# Discriminator\ndef define_D(opt):\n    opt_net = opt[\"network_D\"]\n    setting = opt_net[\"setting\"]",
+        "detail": "config.models.networks",
+        "documentation": {}
+    },
+    {
+        "label": "define_D",
+        "kind": 2,
+        "importPath": "config.models.networks",
+        "description": "config.models.networks",
+        "peekOfCode": "def define_D(opt):\n    opt_net = opt[\"network_D\"]\n    setting = opt_net[\"setting\"]\n    netD = getattr(M, which_model)(**setting)\n    return netD\n# Perceptual loss\ndef define_F(opt, use_bn=False):\n    gpu_ids = opt[\"gpu_ids\"]\n    device = torch.device(\"cuda\" if gpu_ids else \"cpu\")\n    # PyTorch pretrained VGG19-54, before ReLU.",
+        "detail": "config.models.networks",
+        "documentation": {}
+    },
+    {
+        "label": "define_F",
+        "kind": 2,
+        "importPath": "config.models.networks",
+        "description": "config.models.networks",
+        "peekOfCode": "def define_F(opt, use_bn=False):\n    gpu_ids = opt[\"gpu_ids\"]\n    device = torch.device(\"cuda\" if gpu_ids else \"cpu\")\n    # PyTorch pretrained VGG19-54, before ReLU.\n    if use_bn:\n        feature_layer = 49\n    else:\n        feature_layer = 34\n    netF = M.VGGFeatureExtractor(\n        feature_layer=feature_layer, use_bn=use_bn, use_input_norm=True, device=device",
+        "detail": "config.models.networks",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "config.models.networks",
+        "description": "config.models.networks",
+        "peekOfCode": "logger = logging.getLogger(\"base\")\n# Generator\ndef define_G(opt):\n    opt_net = opt[\"network_G\"]\n    which_model = opt_net[\"which_model_G\"]\n    setting = opt_net[\"setting\"]\n    netG = getattr(M, which_model)(**setting)\n    return netG\n# Discriminator\ndef define_D(opt):",
+        "detail": "config.models.networks",
+        "documentation": {}
+    },
+    {
+        "label": "Lion",
+        "kind": 6,
+        "importPath": "config.models.optimizer",
+        "description": "config.models.optimizer",
+        "peekOfCode": "class Lion(Optimizer):\n  r\"\"\"Implements Lion algorithm.\"\"\"\n  def __init__(self, params, lr=1e-4, betas=(0.9, 0.99), weight_decay=0.0):\n    \"\"\"Initialize the hyperparameters.\n    Args:\n      params (iterable): iterable of parameters to optimize or dicts defining\n        parameter groups\n      lr (float, optional): learning rate (default: 1e-4)\n      betas (Tuple[float, float], optional): coefficients used for computing\n        running averages of gradient and its square (default: (0.9, 0.99))",
+        "detail": "config.models.optimizer",
+        "documentation": {}
+    },
+    {
+        "label": "compute_psnr",
+        "kind": 2,
+        "importPath": "config.cal_psnr_for_iter",
+        "description": "config.cal_psnr_for_iter",
+        "peekOfCode": "def compute_psnr(img1, img2):\n    psnr = peak_signal_noise_ratio(img1, img2)\n    return psnr\ndef compute_ssim(img1, img2):\n    ssim = structural_similarity(img1, img2)\n    return ssim\ndef cal_psnr_for_iter_func(results_root):\n    folder_path = os.path.join(results_root, 'state')\n    HQ_dir = os.path.join(results_root,\"test_dataset\", \"HQ\")\n    reference_image_path = os.listdir(HQ_dir)[0]",
+        "detail": "config.cal_psnr_for_iter",
+        "documentation": {}
+    },
+    {
+        "label": "compute_ssim",
+        "kind": 2,
+        "importPath": "config.cal_psnr_for_iter",
+        "description": "config.cal_psnr_for_iter",
+        "peekOfCode": "def compute_ssim(img1, img2):\n    ssim = structural_similarity(img1, img2)\n    return ssim\ndef cal_psnr_for_iter_func(results_root):\n    folder_path = os.path.join(results_root, 'state')\n    HQ_dir = os.path.join(results_root,\"test_dataset\", \"HQ\")\n    reference_image_path = os.listdir(HQ_dir)[0]\n    reference_image_path = os.path.join(HQ_dir, reference_image_path)\n    print(reference_image_path ,\"==========================================\")\n    output_file_path = os.path.join(results_root, \"state.txt\")",
+        "detail": "config.cal_psnr_for_iter",
+        "documentation": {}
+    },
+    {
+        "label": "cal_psnr_for_iter_func",
+        "kind": 2,
+        "importPath": "config.cal_psnr_for_iter",
+        "description": "config.cal_psnr_for_iter",
+        "peekOfCode": "def cal_psnr_for_iter_func(results_root):\n    folder_path = os.path.join(results_root, 'state')\n    HQ_dir = os.path.join(results_root,\"test_dataset\", \"HQ\")\n    reference_image_path = os.listdir(HQ_dir)[0]\n    reference_image_path = os.path.join(HQ_dir, reference_image_path)\n    print(reference_image_path ,\"==========================================\")\n    output_file_path = os.path.join(results_root, \"state.txt\")\n    reference_image = cv2.imread(reference_image_path, cv2.IMREAD_UNCHANGED)\n    with open(output_file_path, 'w') as file:\n        files = sorted(os.listdir(folder_path), key=lambda x: int(x.split('.')[0]))",
+        "detail": "config.cal_psnr_for_iter",
+        "documentation": {}
+    },
+    {
+        "label": "NoneDict",
+        "kind": 6,
+        "importPath": "config.options",
+        "description": "config.options",
+        "peekOfCode": "class NoneDict(dict):\n    def __missing__(self, key):\n        return None\n# convert to NoneDict, which return None for missing key.\ndef dict_to_nonedict(opt):\n    if isinstance(opt, dict):\n        new_opt = dict()\n        for key, sub_opt in opt.items():\n            new_opt[key] = dict_to_nonedict(sub_opt)\n        return NoneDict(**new_opt)",
+        "detail": "config.options",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": "config.options",
+        "description": "config.options",
+        "peekOfCode": "def parse(opt_path, is_train=True):\n    with open(opt_path, mode=\"r\") as f:\n        opt = yaml.load(f, Loader=Loader)\n    # export CUDA_VISIBLE_DEVICES\n    gpu_list = \",\".join(str(x) for x in opt[\"gpu_ids\"])\n    os.environ[\"CUDA_VISIBLE_DEVICES\"] = gpu_list\n    print(\"export CUDA_VISIBLE_DEVICES=\" + gpu_list)\n    opt[\"is_train\"] = is_train\n    scale = 1\n    if opt['distortion'] == 'sr':",
+        "detail": "config.options",
+        "documentation": {}
+    },
+    {
+        "label": "dict2str",
+        "kind": 2,
+        "importPath": "config.options",
+        "description": "config.options",
+        "peekOfCode": "def dict2str(opt, indent_l=1):\n    \"\"\"dict to string for logger\"\"\"\n    msg = \"\"\n    for k, v in opt.items():\n        if isinstance(v, dict):\n            msg += \" \" * (indent_l * 2) + k + \":[\\n\"\n            msg += dict2str(v, indent_l + 1)\n            msg += \" \" * (indent_l * 2) + \"]\\n\"\n        else:\n            msg += \" \" * (indent_l * 2) + k + \": \" + str(v) + \"\\n\"",
+        "detail": "config.options",
+        "documentation": {}
+    },
+    {
+        "label": "dict_to_nonedict",
+        "kind": 2,
+        "importPath": "config.options",
+        "description": "config.options",
+        "peekOfCode": "def dict_to_nonedict(opt):\n    if isinstance(opt, dict):\n        new_opt = dict()\n        for key, sub_opt in opt.items():\n            new_opt[key] = dict_to_nonedict(sub_opt)\n        return NoneDict(**new_opt)\n    elif isinstance(opt, list):\n        return [dict_to_nonedict(sub_opt) for sub_opt in opt]\n    else:\n        return opt",
+        "detail": "config.options",
+        "documentation": {}
+    },
+    {
+        "label": "check_resume",
+        "kind": 2,
+        "importPath": "config.options",
+        "description": "config.options",
+        "peekOfCode": "def check_resume(opt, resume_iter):\n    \"\"\"Check resume states and pretrain_model paths\"\"\"\n    logger = logging.getLogger(\"base\")\n    if opt[\"path\"][\"resume_state\"]:\n        if (\n            opt[\"path\"].get(\"pretrain_model_G\", None) is not None\n            or opt[\"path\"].get(\"pretrain_model_D\", None) is not None\n        ):\n            logger.warning(\n                \"pretrain_model path will be ignored when resuming training.\"",
+        "detail": "config.options",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "config.test",
+        "description": "config.test",
+        "peekOfCode": "parser = argparse.ArgumentParser()\nparser.add_argument(\"-opt\", type=str, required=True,\n                    help=\"Path to options YMAL file.\")\nopt = option.parse(parser.parse_args().opt, is_train=False)\nopt = option.dict_to_nonedict(opt)\nresults_root = util.mkdir_and_rename(\n    opt[\"path\"][\"results_root\"]\n)  # rename experiment folder if exists\nopt[\"path\"][\"results_root\"] = results_root\nopt[\"path\"][\"log\"] = osp.join(results_root, 'log')",
+        "detail": "config.test",
+        "documentation": {}
+    },
+    {
+        "label": "opt",
+        "kind": 5,
+        "importPath": "config.test",
+        "description": "config.test",
+        "peekOfCode": "opt = option.parse(parser.parse_args().opt, is_train=False)\nopt = option.dict_to_nonedict(opt)\nresults_root = util.mkdir_and_rename(\n    opt[\"path\"][\"results_root\"]\n)  # rename experiment folder if exists\nopt[\"path\"][\"results_root\"] = results_root\nopt[\"path\"][\"log\"] = osp.join(results_root, 'log')\n# mkdir and logger\nutil.mkdirs(\n    (",
+        "detail": "config.test",
+        "documentation": {}
+    },
+    {
+        "label": "opt",
+        "kind": 5,
+        "importPath": "config.test",
+        "description": "config.test",
+        "peekOfCode": "opt = option.dict_to_nonedict(opt)\nresults_root = util.mkdir_and_rename(\n    opt[\"path\"][\"results_root\"]\n)  # rename experiment folder if exists\nopt[\"path\"][\"results_root\"] = results_root\nopt[\"path\"][\"log\"] = osp.join(results_root, 'log')\n# mkdir and logger\nutil.mkdirs(\n    (\n        path",
+        "detail": "config.test",
+        "documentation": {}
+    },
+    {
+        "label": "results_root",
+        "kind": 5,
+        "importPath": "config.test",
+        "description": "config.test",
+        "peekOfCode": "results_root = util.mkdir_and_rename(\n    opt[\"path\"][\"results_root\"]\n)  # rename experiment folder if exists\nopt[\"path\"][\"results_root\"] = results_root\nopt[\"path\"][\"log\"] = osp.join(results_root, 'log')\n# mkdir and logger\nutil.mkdirs(\n    (\n        path\n        for key, path in opt[\"path\"].items()",
+        "detail": "config.test",
+        "documentation": {}
+    },
+    {
+        "label": "opt[\"path\"][\"results_root\"]",
+        "kind": 5,
+        "importPath": "config.test",
+        "description": "config.test",
+        "peekOfCode": "opt[\"path\"][\"results_root\"] = results_root\nopt[\"path\"][\"log\"] = osp.join(results_root, 'log')\n# mkdir and logger\nutil.mkdirs(\n    (\n        path\n        for key, path in opt[\"path\"].items()\n        if not key == \"experiments_root\"\n        and \"pretrain_model\" not in key\n        and \"resume\" not in key",
+        "detail": "config.test",
+        "documentation": {}
+    },
+    {
+        "label": "opt[\"path\"][\"log\"]",
+        "kind": 5,
+        "importPath": "config.test",
+        "description": "config.test",
+        "peekOfCode": "opt[\"path\"][\"log\"] = osp.join(results_root, 'log')\n# mkdir and logger\nutil.mkdirs(\n    (\n        path\n        for key, path in opt[\"path\"].items()\n        if not key == \"experiments_root\"\n        and \"pretrain_model\" not in key\n        and \"resume\" not in key\n    )",
+        "detail": "config.test",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "config.test",
+        "description": "config.test",
+        "peekOfCode": "logger = logging.getLogger(\"base\")\nlogger.info(option.dict2str(opt))\n# Create test dataset and dataloader\ntest_loaders = []\nfor phase, dataset_opt in sorted(opt[\"datasets\"].items()):\n    test_set = create_dataset(dataset_opt)\n    test_loader = create_dataloader(test_set, dataset_opt)\n    logger.info(\n        \"Number of test images in [{:s}]: {:d}\".format(\n            dataset_opt[\"name\"], len(test_set)",
+        "detail": "config.test",
+        "documentation": {}
+    },
+    {
+        "label": "test_loaders",
+        "kind": 5,
+        "importPath": "config.test",
+        "description": "config.test",
+        "peekOfCode": "test_loaders = []\nfor phase, dataset_opt in sorted(opt[\"datasets\"].items()):\n    test_set = create_dataset(dataset_opt)\n    test_loader = create_dataloader(test_set, dataset_opt)\n    logger.info(\n        \"Number of test images in [{:s}]: {:d}\".format(\n            dataset_opt[\"name\"], len(test_set)\n        )\n    )\n    test_loaders.append(test_loader)",
+        "detail": "config.test",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "config.test",
+        "description": "config.test",
+        "peekOfCode": "model = create_model(opt)\ndevice = model.device\nsde = util.IRSDE(max_sigma=opt[\"sde\"][\"max_sigma\"], T=opt[\"sde\"][\"T\"], schedule=opt[\"sde\"][\"schedule\"],\n                 eps=opt[\"sde\"][\"eps\"], device=device)\nsde.set_model(model.model)\nlpips_fn = lpips.LPIPS(net='alex').to(device)\nscale = opt['degradation']['scale']\nfor test_loader in test_loaders:\n    test_set_name = test_loader.dataset.opt[\"name\"]  # path opt['']\n    logger.info(\"\\nTesting [{:s}]...\".format(test_set_name))",
+        "detail": "config.test",
+        "documentation": {}
+    },
+    {
+        "label": "device",
+        "kind": 5,
+        "importPath": "config.test",
+        "description": "config.test",
+        "peekOfCode": "device = model.device\nsde = util.IRSDE(max_sigma=opt[\"sde\"][\"max_sigma\"], T=opt[\"sde\"][\"T\"], schedule=opt[\"sde\"][\"schedule\"],\n                 eps=opt[\"sde\"][\"eps\"], device=device)\nsde.set_model(model.model)\nlpips_fn = lpips.LPIPS(net='alex').to(device)\nscale = opt['degradation']['scale']\nfor test_loader in test_loaders:\n    test_set_name = test_loader.dataset.opt[\"name\"]  # path opt['']\n    logger.info(\"\\nTesting [{:s}]...\".format(test_set_name))\n    test_start_time = time.time()",
+        "detail": "config.test",
+        "documentation": {}
+    },
+    {
+        "label": "sde",
+        "kind": 5,
+        "importPath": "config.test",
+        "description": "config.test",
+        "peekOfCode": "sde = util.IRSDE(max_sigma=opt[\"sde\"][\"max_sigma\"], T=opt[\"sde\"][\"T\"], schedule=opt[\"sde\"][\"schedule\"],\n                 eps=opt[\"sde\"][\"eps\"], device=device)\nsde.set_model(model.model)\nlpips_fn = lpips.LPIPS(net='alex').to(device)\nscale = opt['degradation']['scale']\nfor test_loader in test_loaders:\n    test_set_name = test_loader.dataset.opt[\"name\"]  # path opt['']\n    logger.info(\"\\nTesting [{:s}]...\".format(test_set_name))\n    test_start_time = time.time()\n    dataset_dir = os.path.join(opt[\"path\"][\"results_root\"], test_set_name)",
+        "detail": "config.test",
+        "documentation": {}
+    },
+    {
+        "label": "lpips_fn",
+        "kind": 5,
+        "importPath": "config.test",
+        "description": "config.test",
+        "peekOfCode": "lpips_fn = lpips.LPIPS(net='alex').to(device)\nscale = opt['degradation']['scale']\nfor test_loader in test_loaders:\n    test_set_name = test_loader.dataset.opt[\"name\"]  # path opt['']\n    logger.info(\"\\nTesting [{:s}]...\".format(test_set_name))\n    test_start_time = time.time()\n    dataset_dir = os.path.join(opt[\"path\"][\"results_root\"], test_set_name)\n    util.mkdir(dataset_dir)\n    test_results = OrderedDict()\n    test_results[\"psnr\"] = []",
+        "detail": "config.test",
+        "documentation": {}
+    },
+    {
+        "label": "scale",
+        "kind": 5,
+        "importPath": "config.test",
+        "description": "config.test",
+        "peekOfCode": "scale = opt['degradation']['scale']\nfor test_loader in test_loaders:\n    test_set_name = test_loader.dataset.opt[\"name\"]  # path opt['']\n    logger.info(\"\\nTesting [{:s}]...\".format(test_set_name))\n    test_start_time = time.time()\n    dataset_dir = os.path.join(opt[\"path\"][\"results_root\"], test_set_name)\n    util.mkdir(dataset_dir)\n    test_results = OrderedDict()\n    test_results[\"psnr\"] = []\n    test_results[\"ssim\"] = []",
+        "detail": "config.test",
+        "documentation": {}
+    },
+    {
+        "label": "init_dist",
+        "kind": 2,
+        "importPath": "config.train",
+        "description": "config.train",
+        "peekOfCode": "def init_dist(backend=\"nccl\", **kwargs):\n    \"\"\" initialization for distributed training\"\"\"\n    # if mp.get_start_method(allow_none=True) is None:\n    if (\n        mp.get_start_method(allow_none=True) != \"spawn\"\n    ):  # Return the name of start method used for starting processes\n        mp.set_start_method(\"spawn\", force=True)  ##'spawn' is the default on Windows\n    rank = int(os.environ[\"RANK\"])  # system env process ranks\n    num_gpus = torch.cuda.device_count()  # Returns the number of GPUs available\n    torch.cuda.set_device(rank % num_gpus)",
+        "detail": "config.train",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "config.train",
+        "description": "config.train",
+        "peekOfCode": "def main():\n    #### setup options of three networks\n    parser = argparse.ArgumentParser()\n    parser.add_argument(\"-opt\", type=str, help=\"Path to option YMAL file.\")\n    parser.add_argument(\n        \"--launcher\", choices=[\"none\", \"pytorch\"], default=\"none\", help=\"job launcher\"\n    )\n    parser.add_argument(\"--local_rank\", type=int, default=0)\n    args = parser.parse_args()\n    opt = option.parse(args.opt, is_train=True)",
+        "detail": "config.train",
+        "documentation": {}
+    },
+    {
+        "label": "BokehLQGTDataset",
+        "kind": 6,
+        "importPath": "data.BokehLQGT_dataset",
+        "description": "data.BokehLQGT_dataset",
+        "peekOfCode": "class BokehLQGTDataset(data.Dataset):\n    \"\"\"\n    Read LR (Low Quality, here is LR) and GT image pairs.\n    The pair is ensured by 'sorted' function, so please check the name convention.\n    \"\"\"\n    def __init__(self, opt):\n        super().__init__()\n        self.opt = opt\n        self.LR_paths, self.GT_paths = None, None\n        self.LR_env, self.GT_env = None, None  # environment for lmdb",
+        "detail": "data.BokehLQGT_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "BokehLQDataset",
+        "kind": 6,
+        "importPath": "data.BokehLQ_dataset",
+        "description": "data.BokehLQ_dataset",
+        "peekOfCode": "class BokehLQDataset(data.Dataset):\n    \"\"\"\n    Read LR (Low Quality, here is LR) and GT image pairs.\n    The pair is ensured by 'sorted' function, so please check the name convention.\n    \"\"\"\n    def __init__(self, opt):\n        super().__init__()\n        self.opt = opt\n        self.LR_paths = None\n        self.LR_env = None  # environment for lmdb",
+        "detail": "data.BokehLQ_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "GTDataset",
+        "kind": 6,
+        "importPath": "data.GT_dataset",
+        "description": "data.GT_dataset",
+        "peekOfCode": "class GTDataset(data.Dataset):\n    \"\"\"\n    Read LR (Low Quality, here is LR) and GT image pairs.\n    The pair is ensured by 'sorted' function, so please check the name convention.\n    \"\"\"\n    def __init__(self, opt):\n        super().__init__()\n        self.opt = opt\n        self.GT_paths = None\n        self.GT_env = None  # environment for lmdb",
+        "detail": "data.GT_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "LQGTDataset",
+        "kind": 6,
+        "importPath": "data.LQGT_dataset",
+        "description": "data.LQGT_dataset",
+        "peekOfCode": "class LQGTDataset(data.Dataset):\n    \"\"\"\n    Read LR (Low Quality, here is LR) and GT image pairs.\n    The pair is ensured by 'sorted' function, so please check the name convention.\n    \"\"\"\n    def __init__(self, opt):\n        super().__init__()\n        self.opt = opt\n        self.LR_paths, self.GT_paths = None, None\n        self.LR_env, self.GT_env = None, None  # environment for lmdb",
+        "detail": "data.LQGT_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "LQDataset",
+        "kind": 6,
+        "importPath": "data.LQ_dataset",
+        "description": "data.LQ_dataset",
+        "peekOfCode": "class LQDataset(data.Dataset):\n    \"\"\"\n    Read LR (Low Quality, here is LR) and LR image pairs.\n    The pair is ensured by 'sorted' function, so please check the name convention.\n    \"\"\"\n    def __init__(self, opt):\n        super().__init__()\n        self.opt = opt\n        self.LQ_paths = None\n        self.LR_env = None  # environment for lmdb",
+        "detail": "data.LQ_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "StereoLQGTDataset",
+        "kind": 6,
+        "importPath": "data.StereoLQGT_dataset",
+        "description": "data.StereoLQGT_dataset",
+        "peekOfCode": "class StereoLQGTDataset(data.Dataset):\n    \"\"\"\n    Read LR (Low Quality, here is LR) and GT image pairs.\n    The pair is ensured by 'sorted' function, so please check the name convention.\n    \"\"\"\n    def __init__(self, opt):\n        super().__init__()\n        self.opt = opt\n        self.LR_paths, self.GT_paths = None, None\n        self.LR_env, self.GT_env = None, None  # environment for lmdb",
+        "detail": "data.StereoLQGT_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "StereoLQDataset",
+        "kind": 6,
+        "importPath": "data.StereoLQ_dataset",
+        "description": "data.StereoLQ_dataset",
+        "peekOfCode": "class StereoLQDataset(data.Dataset):\n    \"\"\"\n    Read LR (Low Quality, here is LR) and LR image pairs.\n    The pair is ensured by 'sorted' function, so please check the name convention.\n    \"\"\"\n    def __init__(self, opt):\n        super().__init__()\n        self.opt = opt\n        self.LQ_paths = None\n        self.LR_env = None  # environment for lmdb",
+        "detail": "data.StereoLQ_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "DistIterSampler",
+        "kind": 6,
+        "importPath": "data.data_sampler",
+        "description": "data.data_sampler",
+        "peekOfCode": "class DistIterSampler(Sampler):\n    \"\"\"Sampler that restricts data loading to a subset of the dataset.\n    It is especially useful in conjunction with\n    :class:`torch.nn.parallel.DistributedDataParallel`. In such case, each\n    process can pass a DistributedSampler instance as a DataLoader sampler,\n    and load a subset of the original dataset that is exclusive to it.\n    .. note::\n        Dataset is assumed to be of constant size.\n    Arguments:\n        dataset: Dataset used for sampling.",
+        "detail": "data.data_sampler",
+        "documentation": {}
+    },
+    {
+        "label": "is_image_file",
+        "kind": 2,
+        "importPath": "data.util",
+        "description": "data.util",
+        "peekOfCode": "def is_image_file(filename):\n    return any(filename.endswith(extension) for extension in IMG_EXTENSIONS)\ndef _get_paths_from_images(path):\n    '''get image path list from image folder'''\n    assert os.path.isdir(path), '{:s} is not a valid directory'.format(path)\n    images = []\n    for dirpath, _, fnames in sorted(os.walk(path)):\n        for fname in sorted(fnames):\n            if is_image_file(fname):\n                img_path = os.path.join(dirpath, fname)",
+        "detail": "data.util",
+        "documentation": {}
+    },
+    {
+        "label": "get_image_paths",
+        "kind": 2,
+        "importPath": "data.util",
+        "description": "data.util",
+        "peekOfCode": "def get_image_paths(data_type, dataroot):\n    '''get image path list\n    support lmdb or image files'''\n    paths, sizes = None, None\n    if dataroot is not None:\n        if data_type == 'lmdb':\n            paths, sizes = _get_paths_from_lmdb(dataroot)\n            return paths, sizes\n        elif data_type == 'img':\n            paths = sorted(_get_paths_from_images(dataroot))",
+        "detail": "data.util",
+        "documentation": {}
+    },
+    {
+        "label": "read_img",
+        "kind": 2,
+        "importPath": "data.util",
+        "description": "data.util",
+        "peekOfCode": "def read_img(env, path, size=None):\n    '''read image by cv2 or from lmdb\n    return: Numpy float32, HWC, BGR, [0,1]'''\n    if env is None:  # img\n        img = cv2.imread(path, cv2.IMREAD_UNCHANGED)\n    else:\n        img = _read_img_lmdb(env, path, size)\n    img = img.astype(np.float32) / 255.\n    if img.ndim == 2:\n        img = np.expand_dims(img, axis=2)",
+        "detail": "data.util",
+        "documentation": {}
+    },
+    {
+        "label": "augment",
+        "kind": 2,
+        "importPath": "data.util",
+        "description": "data.util",
+        "peekOfCode": "def augment(img, hflip=True, rot=True, mode=None, swap=None):\n    # horizontal flip OR rotate\n    hflip = hflip and random.random() < 0.5\n    vflip = rot and random.random() < 0.5\n    rot90 = rot and random.random() < 0.5\n    def _augment(img):\n        if hflip:\n            img = img[:, ::-1, :]\n        if vflip:\n            img = img[::-1, :, :]",
+        "detail": "data.util",
+        "documentation": {}
+    },
+    {
+        "label": "augment_flow",
+        "kind": 2,
+        "importPath": "data.util",
+        "description": "data.util",
+        "peekOfCode": "def augment_flow(img_list, flow_list, hflip=True, rot=True):\n    # horizontal flip OR rotate\n    hflip = hflip and random.random() < 0.5\n    vflip = rot and random.random() < 0.5\n    rot90 = rot and random.random() < 0.5\n    def _augment(img):\n        if hflip:\n            img = img[:, ::-1, :]\n        if vflip:\n            img = img[::-1, :, :]",
+        "detail": "data.util",
+        "documentation": {}
+    },
+    {
+        "label": "channel_convert",
+        "kind": 2,
+        "importPath": "data.util",
+        "description": "data.util",
+        "peekOfCode": "def channel_convert(in_c, tar_type, img_list):\n    # conversion among BGR, gray and y\n    if in_c == 3 and tar_type == 'gray':  # BGR to gray\n        gray_list = [cv2.cvtColor(img, cv2.COLOR_BGR2GRAY) for img in img_list]\n        return [np.expand_dims(img, axis=2) for img in gray_list]\n    elif in_c == 3 and tar_type == 'y':  # BGR to y\n        y_list = [bgr2ycbcr(img, only_y=True) for img in img_list]\n        return [np.expand_dims(img, axis=2) for img in y_list]\n    elif in_c == 1 and tar_type == 'RGB':  # gray/y to BGR\n        return [cv2.cvtColor(img, cv2.COLOR_GRAY2BGR) for img in img_list]",
+        "detail": "data.util",
+        "documentation": {}
+    },
+    {
+        "label": "rgb2ycbcr",
+        "kind": 2,
+        "importPath": "data.util",
+        "description": "data.util",
+        "peekOfCode": "def rgb2ycbcr(img, only_y=True):\n    '''same as matlab rgb2ycbcr\n    only_y: only return Y channel\n    Input:\n        uint8, [0, 255]\n        float, [0, 1]\n    '''\n    in_img_type = img.dtype\n    img.astype(np.float32)\n    if in_img_type != np.uint8:",
+        "detail": "data.util",
+        "documentation": {}
+    },
+    {
+        "label": "bgr2ycbcr",
+        "kind": 2,
+        "importPath": "data.util",
+        "description": "data.util",
+        "peekOfCode": "def bgr2ycbcr(img, only_y=True):\n    '''bgr version of rgb2ycbcr\n    only_y: only return Y channel\n    Input:\n        uint8, [0, 255]\n        float, [0, 1]\n    '''\n    in_img_type = img.dtype\n    img.astype(np.float32)\n    if in_img_type != np.uint8:",
+        "detail": "data.util",
+        "documentation": {}
+    },
+    {
+        "label": "ycbcr2rgb",
+        "kind": 2,
+        "importPath": "data.util",
+        "description": "data.util",
+        "peekOfCode": "def ycbcr2rgb(img):\n    '''same as matlab ycbcr2rgb\n    Input:\n        uint8, [0, 255]\n        float, [0, 1]\n    '''\n    in_img_type = img.dtype\n    img.astype(np.float32)\n    if in_img_type != np.uint8:\n        img *= 255.",
+        "detail": "data.util",
+        "documentation": {}
+    },
+    {
+        "label": "modcrop",
+        "kind": 2,
+        "importPath": "data.util",
+        "description": "data.util",
+        "peekOfCode": "def modcrop(img_in, scale):\n    # img_in: Numpy, HWC or HW\n    img = np.copy(img_in)\n    if img.ndim == 2:\n        H, W = img.shape\n        H_r, W_r = H % scale, W % scale\n        img = img[:H - H_r, :W - W_r]\n    elif img.ndim == 3:\n        H, W, C = img.shape\n        H_r, W_r = H % scale, W % scale",
+        "detail": "data.util",
+        "documentation": {}
+    },
+    {
+        "label": "cubic",
+        "kind": 2,
+        "importPath": "data.util",
+        "description": "data.util",
+        "peekOfCode": "def cubic(x):\n    absx = torch.abs(x)\n    absx2 = absx**2\n    absx3 = absx**3\n    weight = (1.5 * absx3 - 2.5 * absx2 + 1) * (\n        (absx <= 1).type_as(absx)) + (-0.5 * absx3 + 2.5 * absx2 - 4 * absx + 2) * ((\n            (absx > 1) * (absx <= 2)).type_as(absx))\n    return weight\ndef calculate_weights_indices(in_length, out_length, scale, kernel, kernel_width, antialiasing):\n    if (scale < 1) and (antialiasing):",
+        "detail": "data.util",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_weights_indices",
+        "kind": 2,
+        "importPath": "data.util",
+        "description": "data.util",
+        "peekOfCode": "def calculate_weights_indices(in_length, out_length, scale, kernel, kernel_width, antialiasing):\n    if (scale < 1) and (antialiasing):\n        # Use a modified kernel to simultaneously interpolate and antialias- larger kernel width\n        kernel_width = kernel_width / scale\n    # Output-space coordinates\n    x = torch.linspace(1, out_length, out_length)\n    # Input-space coordinates. Calculate the inverse mapping such that 0.5\n    # in output space maps to 0.5 in input space, and 0.5+scale in output\n    # space maps to 1.5 in input space.\n    u = x / scale + 0.5 * (1 - 1 / scale)",
+        "detail": "data.util",
+        "documentation": {}
+    },
+    {
+        "label": "imresize",
+        "kind": 2,
+        "importPath": "data.util",
+        "description": "data.util",
+        "peekOfCode": "def imresize(img, scale, antialiasing=True):\n    # Now the scale should be the same for H and W\n    # input: img: CHW RGB [0,1]\n    # output: CHW RGB [0,1] w/o round\n    is_numpy = False\n    if isinstance(img, np.ndarray):\n        img = torch.from_numpy(img.transpose(2, 0, 1)).cuda()\n        is_numpy = True\n    device = img.device\n    # device = torch.device(\"cuda\")",
+        "detail": "data.util",
+        "documentation": {}
+    },
+    {
+        "label": "load_ker_map_list",
+        "kind": 2,
+        "importPath": "data.util",
+        "description": "data.util",
+        "peekOfCode": "def load_ker_map_list(path):\n    real_ker_map_list = []\n    batch_kermap = torch.load(path)\n    size_kermap = batch_kermap.size()\n    m = size_kermap[0]\n    for i in range(m):\n        real_ker_map_list.append(batch_kermap[i])\n    return real_ker_map_list\nif __name__ == '__main__':\n    # test imresize function",
+        "detail": "data.util",
+        "documentation": {}
+    },
+    {
+        "label": "IMG_EXTENSIONS",
+        "kind": 5,
+        "importPath": "data.util",
+        "description": "data.util",
+        "peekOfCode": "IMG_EXTENSIONS = ['.jpg', '.JPG', '.jpeg', '.JPEG', '.png', '.PNG', '.ppm', '.PPM', '.bmp', '.BMP', 'tif']\ndef is_image_file(filename):\n    return any(filename.endswith(extension) for extension in IMG_EXTENSIONS)\ndef _get_paths_from_images(path):\n    '''get image path list from image folder'''\n    assert os.path.isdir(path), '{:s} is not a valid directory'.format(path)\n    images = []\n    for dirpath, _, fnames in sorted(os.walk(path)):\n        for fname in sorted(fnames):\n            if is_image_file(fname):",
+        "detail": "data.util",
+        "documentation": {}
+    },
+    {
+        "label": "add_noise",
+        "kind": 2,
+        "importPath": "utils.deg_utils",
+        "description": "utils.deg_utils",
+        "peekOfCode": "def add_noise(tensor, sigma):\n    sigma = sigma / 255 if sigma > 1 else sigma\n    return tensor + torch.randn_like(tensor) * sigma\n######## inpainting ###########\ndef mask_to(tensor, mask_root='data/datasets/gt_keep_masks/genhalf', mask_id=-1, n=100):\n    batch = tensor.shape[0]\n    if mask_id < 0:\n        mask_id = np.random.randint(0, n, batch)\n        masks = []\n        for i in range(batch):",
+        "detail": "utils.deg_utils",
+        "documentation": {}
+    },
+    {
+        "label": "mask_to",
+        "kind": 2,
+        "importPath": "utils.deg_utils",
+        "description": "utils.deg_utils",
+        "peekOfCode": "def mask_to(tensor, mask_root='data/datasets/gt_keep_masks/genhalf', mask_id=-1, n=100):\n    batch = tensor.shape[0]\n    if mask_id < 0:\n        mask_id = np.random.randint(0, n, batch)\n        masks = []\n        for i in range(batch):\n            masks.append(cv2.imread(os.path.join(mask_root, f'{mask_id[i]:06d}.png'))[None, ...] / 255.)\n        mask = np.concatenate(masks, axis=0)\n    else:\n        mask = cv2.imread(os.path.join(mask_root, f'{mask_id:06d}.png'))[None, ...] / 255.",
+        "detail": "utils.deg_utils",
+        "documentation": {}
+    },
+    {
+        "label": "upscale",
+        "kind": 2,
+        "importPath": "utils.deg_utils",
+        "description": "utils.deg_utils",
+        "peekOfCode": "def upscale(tensor, scale=4, mode='bicubic'):\n    tensor = F.interpolate(tensor, scale_factor=scale, mode=mode)\n    return tensor",
+        "detail": "utils.deg_utils",
+        "documentation": {}
+    },
+    {
+        "label": "ProgressBar",
+        "kind": 6,
+        "importPath": "utils.file_utils",
+        "description": "utils.file_utils",
+        "peekOfCode": "class ProgressBar(object):\n    \"\"\"A progress bar which can print the progress\n    modified from https://github.com/hellock/cvbase/blob/master/cvbase/progress.py\n    \"\"\"\n    def __init__(self, task_num=0, bar_width=50, start=True):\n        self.task_num = task_num\n        max_bar_width = self._get_max_bar_width()\n        self.bar_width = bar_width if bar_width <= max_bar_width else max_bar_width\n        self.completed = 0\n        if start:",
+        "detail": "utils.file_utils",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedYaml",
+        "kind": 2,
+        "importPath": "utils.file_utils",
+        "description": "utils.file_utils",
+        "peekOfCode": "def OrderedYaml():\n    _mapping_tag = yaml.resolver.BaseResolver.DEFAULT_MAPPING_TAG\n    def dict_representer(dumper, data):\n        return dumper.represent_dict(data.items())\n    def dict_constructor(loader, node):\n        return OrderedDict(loader.construct_pairs(node))\n    Dumper.add_representer(OrderedDict, dict_representer)\n    Loader.add_constructor(_mapping_tag, dict_constructor)\n    return Loader, Dumper\ndef get_timestamp():",
+        "detail": "utils.file_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_timestamp",
+        "kind": 2,
+        "importPath": "utils.file_utils",
+        "description": "utils.file_utils",
+        "peekOfCode": "def get_timestamp():\n    return datetime.now().strftime(\"%y%m%d-%H%M%S\")\ndef mkdir(path):\n    if not os.path.exists(path):\n        os.makedirs(path)\ndef mkdirs(paths):\n    if isinstance(paths, str):\n        mkdir(paths)\n    else:\n        for path in paths:",
+        "detail": "utils.file_utils",
+        "documentation": {}
+    },
+    {
+        "label": "mkdir",
+        "kind": 2,
+        "importPath": "utils.file_utils",
+        "description": "utils.file_utils",
+        "peekOfCode": "def mkdir(path):\n    if not os.path.exists(path):\n        os.makedirs(path)\ndef mkdirs(paths):\n    if isinstance(paths, str):\n        mkdir(paths)\n    else:\n        for path in paths:\n            mkdir(path)\ndef mkdir_and_rename(path):",
+        "detail": "utils.file_utils",
+        "documentation": {}
+    },
+    {
+        "label": "mkdirs",
+        "kind": 2,
+        "importPath": "utils.file_utils",
+        "description": "utils.file_utils",
+        "peekOfCode": "def mkdirs(paths):\n    if isinstance(paths, str):\n        mkdir(paths)\n    else:\n        for path in paths:\n            mkdir(path)\ndef mkdir_and_rename(path):\n    if os.path.exists(path):\n        new_name = path + \"_archived_\" + get_timestamp()\n        print(\"Path already exists. Rename it to [{:s}]\".format(new_name))",
+        "detail": "utils.file_utils",
+        "documentation": {}
+    },
+    {
+        "label": "mkdir_and_rename",
+        "kind": 2,
+        "importPath": "utils.file_utils",
+        "description": "utils.file_utils",
+        "peekOfCode": "def mkdir_and_rename(path):\n    if os.path.exists(path):\n        new_name = path + \"_archived_\" + get_timestamp()\n        print(\"Path already exists. Rename it to [{:s}]\".format(new_name))\n        logger = logging.getLogger(\"base\")\n        logger.info(\"Path already exists. Rename it to [{:s}]\".format(new_name))\n        os.makedirs(new_name)\n        return new_name\n    else:\n        os.makedirs(path)",
+        "detail": "utils.file_utils",
+        "documentation": {}
+    },
+    {
+        "label": "set_random_seed",
+        "kind": 2,
+        "importPath": "utils.file_utils",
+        "description": "utils.file_utils",
+        "peekOfCode": "def set_random_seed(seed):\n    random.seed(seed)\n    np.random.seed(seed)\n    torch.manual_seed(seed)\n    torch.cuda.manual_seed_all(seed)\ndef setup_logger(\n    logger_name, root, phase, level=logging.INFO, screen=False, tofile=False\n):\n    \"\"\"set up logger\"\"\"\n    lg = logging.getLogger(logger_name)",
+        "detail": "utils.file_utils",
+        "documentation": {}
+    },
+    {
+        "label": "setup_logger",
+        "kind": 2,
+        "importPath": "utils.file_utils",
+        "description": "utils.file_utils",
+        "peekOfCode": "def setup_logger(\n    logger_name, root, phase, level=logging.INFO, screen=False, tofile=False\n):\n    \"\"\"set up logger\"\"\"\n    lg = logging.getLogger(logger_name)\n    formatter = logging.Formatter(\n        \"%(asctime)s.%(msecs)03d - %(levelname)s: %(message)s\",\n        datefmt=\"%y-%m-%d %H:%M:%S\",\n    )\n    lg.setLevel(level)",
+        "detail": "utils.file_utils",
+        "documentation": {}
+    },
+    {
+        "label": "to_pil_image",
+        "kind": 2,
+        "importPath": "utils.img_utils",
+        "description": "utils.img_utils",
+        "peekOfCode": "def to_pil_image(pic, mode=None):\n    if not (_is_numpy_image(pic) or _is_tensor_image(pic)):\n        raise TypeError(\"pic should be Tensor or ndarray. Got {}.\".format(type(pic)))\n    npimg = pic\n    if isinstance(pic, torch.FloatTensor):\n        pic = pic.mul(255).byte()\n    if torch.is_tensor(pic):\n        npimg = np.transpose(pic.numpy(), (1, 2, 0))\n    if not isinstance(npimg, np.ndarray):\n        raise TypeError(",
+        "detail": "utils.img_utils",
+        "documentation": {}
+    },
+    {
+        "label": "to_tensor",
+        "kind": 2,
+        "importPath": "utils.img_utils",
+        "description": "utils.img_utils",
+        "peekOfCode": "def to_tensor(pic):\n    if not (_is_pil_image(pic) or _is_numpy_image(pic)):\n        raise TypeError(\"pic should be PIL Image or ndarray. Got {}\".format(type(pic)))\n    if isinstance(pic, np.ndarray):\n        # handle numpy array\n        img = torch.from_numpy(pic.transpose((2, 0, 1)))\n        # backward compatibility\n        return img.float().div(255)\n    if accimage is not None and isinstance(pic, accimage.Image):\n        nppic = np.zeros([pic.channels, pic.height, pic.width], dtype=np.float32)",
+        "detail": "utils.img_utils",
+        "documentation": {}
+    },
+    {
+        "label": "tensor2img",
+        "kind": 2,
+        "importPath": "utils.img_utils",
+        "description": "utils.img_utils",
+        "peekOfCode": "def tensor2img(tensor, out_type=np.uint8, min_max=(0, 1)):\n    \"\"\"\n    Converts a torch Tensor into an image Numpy array\n    Input: 4D(B,(3/1),H,W), 3D(C,H,W), or 2D(H,W), any range, RGB channel order\n    Output: 3D(H,W,C) or 2D(H,W), [0,255], np.uint8 (default)\n    \"\"\"\n    tensor = tensor.squeeze().float().cpu().clamp_(*min_max)  # clamp\n    tensor = (tensor - min_max[0]) / (min_max[1] - min_max[0])  # to range [0,1]\n    n_dim = tensor.dim()\n    if n_dim == 4:",
+        "detail": "utils.img_utils",
+        "documentation": {}
+    },
+    {
+        "label": "save_img",
+        "kind": 2,
+        "importPath": "utils.img_utils",
+        "description": "utils.img_utils",
+        "peekOfCode": "def save_img(img, img_path, mode=\"RGB\"):\n    cv2.imwrite(img_path, img)\ndef img2tensor(img):\n    \"\"\"\n    # BGR to RGB, HWC to CHW, numpy to tensor\n    Input: img(H, W, C), [0,255], np.uint8 (default)\n    Output: 3D(C,H,W), RGB order, float tensor\n    \"\"\"\n    img = img.astype(np.float32) / 255.0\n    img = img[:, :, [2, 1, 0]]",
+        "detail": "utils.img_utils",
+        "documentation": {}
+    },
+    {
+        "label": "img2tensor",
+        "kind": 2,
+        "importPath": "utils.img_utils",
+        "description": "utils.img_utils",
+        "peekOfCode": "def img2tensor(img):\n    \"\"\"\n    # BGR to RGB, HWC to CHW, numpy to tensor\n    Input: img(H, W, C), [0,255], np.uint8 (default)\n    Output: 3D(C,H,W), RGB order, float tensor\n    \"\"\"\n    img = img.astype(np.float32) / 255.0\n    img = img[:, :, [2, 1, 0]]\n    img = torch.from_numpy(np.ascontiguousarray(np.transpose(img, (2, 0, 1)))).float()\n    return img",
+        "detail": "utils.img_utils",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_psnr",
+        "kind": 2,
+        "importPath": "utils.img_utils",
+        "description": "utils.img_utils",
+        "peekOfCode": "def calculate_psnr(img1, img2):\n    # img1 and img2 have range [0, 255]\n    img1 = img1.astype(np.float64)\n    img2 = img2.astype(np.float64)\n    mse = np.mean((img1 - img2) ** 2)\n    if mse == 0:\n        return float(\"inf\")\n    return 20 * math.log10(255.0 / math.sqrt(mse))\ndef ssim(img1, img2):\n    C1 = (0.01 * 255) ** 2",
+        "detail": "utils.img_utils",
+        "documentation": {}
+    },
+    {
+        "label": "ssim",
+        "kind": 2,
+        "importPath": "utils.img_utils",
+        "description": "utils.img_utils",
+        "peekOfCode": "def ssim(img1, img2):\n    C1 = (0.01 * 255) ** 2\n    C2 = (0.03 * 255) ** 2\n    img1 = img1.astype(np.float64)\n    img2 = img2.astype(np.float64)\n    kernel = cv2.getGaussianKernel(11, 1.5)\n    window = np.outer(kernel, kernel.transpose())\n    mu1 = cv2.filter2D(img1, -1, window)[5:-5, 5:-5]  # valid\n    mu2 = cv2.filter2D(img2, -1, window)[5:-5, 5:-5]\n    mu1_sq = mu1 ** 2",
+        "detail": "utils.img_utils",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_ssim",
+        "kind": 2,
+        "importPath": "utils.img_utils",
+        "description": "utils.img_utils",
+        "peekOfCode": "def calculate_ssim(img1, img2):\n    \"\"\"calculate SSIM\n    the same outputs as MATLAB's\n    img1, img2: [0, 255]\n    \"\"\"\n    if not img1.shape == img2.shape:\n        raise ValueError(\"Input images must have the same dimensions.\")\n    if img1.ndim == 2:\n        return ssim(img1, img2)\n    elif img1.ndim == 3:",
+        "detail": "utils.img_utils",
+        "documentation": {}
+    },
+    {
+        "label": "SDE",
+        "kind": 6,
+        "importPath": "utils.sde_utils",
+        "description": "utils.sde_utils",
+        "peekOfCode": "class SDE(abc.ABC):\n    def __init__(self, T, device=None):\n        self.T = T\n        self.dt = 1 / T\n        self.device = device\n    @abc.abstractmethod\n    def drift(self, x, t):\n        pass\n    @abc.abstractmethod\n    def dispersion(self, x, t):",
+        "detail": "utils.sde_utils",
+        "documentation": {}
+    },
+    {
+        "label": "IRSDE",
+        "kind": 6,
+        "importPath": "utils.sde_utils",
+        "description": "utils.sde_utils",
+        "peekOfCode": "class IRSDE(SDE):\n    '''\n    Let timestep t start from 1 to T, state t=0 is never used\n    '''\n    def __init__(self, max_sigma, T=100, schedule='cosine', eps=0.01,  device=None):\n        print('tttt')\n        super().__init__(T, device)\n        self.max_sigma = max_sigma / 255 if max_sigma >= 1 else max_sigma\n        self._initialize(self.max_sigma, T, schedule, eps)\n    def _initialize(self, max_sigma, T, schedule, eps=0.01):",
+        "detail": "utils.sde_utils",
+        "documentation": {}
+    },
+    {
+        "label": "DenoisingSDE",
+        "kind": 6,
+        "importPath": "utils.sde_utils",
+        "description": "utils.sde_utils",
+        "peekOfCode": "class DenoisingSDE(SDE):\n    '''\n    Let timestep t start from 1 to T, state t=0 is never used\n    '''\n    def __init__(self, max_sigma, T, schedule='cosine', device=None):\n        super().__init__(T, device)\n        self.max_sigma = max_sigma / 255 if max_sigma > 1 else max_sigma\n        self._initialize(self.max_sigma, T, schedule)\n    def _initialize(self, max_sigma, T, schedule, eps=0.04):\n        def linear_beta_schedule(timesteps):",
+        "detail": "utils.sde_utils",
+        "documentation": {}
+    }
+]
